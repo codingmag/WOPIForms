@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wopi-discovery>
+  <net-zone name="internal-http">
+    <app name="xml"
+         favIconUrl="http://wopi.sp.dom/images/xml.ico"
+         checkLicense="false">
+      <action name="view"
+              ext="xml"
+              default="true"
+              urlsrc="http://wopi.sp.dom/xml/viewer.aspx?&lt;ui=UI_LLCC&amp;&gt;&lt;rs=DC_LLCC&amp;&gt;&lt;showpagestats=PERFSTATS&amp;&gt;" />
+    </app>
+  </net-zone>
+  <proof-key oldvalue="" value="BwIAAACkAABSU0EyAAgAAAEAAQARYztrGVlRgjGvgPHGAArsQCbRRgGNPgUtn9U1te729UQ669hl/caOJqAnpZcRGlrNGytQQjgFHCmdSgI84buWKqicLyaLGEh7LaEabC+fIjVA8Jzepwc7Ns2Gjw+nqPcA9GvtKVHkPbt0sqFeyOUWoEBd5tUZ2EIaJGzTG8j5DKj8W42KQjfcORxILqbBVbDZ3ezX+JqjM0utEs+ERweDHBQrJbBhlmVZNpmByPgyWKbxRoLEI2UnBw1ykana/hRTqSB+mxBeHZEZQEeNqfFRz8Kd+SuKhSbza/rvRk5Mu3NI7kRI9cM5Zh7nXCmQK7qbuipcyDbws1ixPwRLwOGYfR3mz7tt/04bQfRHBKYEtOtngsKERS7uqz3Qm/tFjh3sa3JVtVkwy1CIapXOFz8fy4/ONpTINIPjHTgiT1x50zigrZZFKlMKttQ/n1dkgst3mI0C8AJqpEWPEJAtOodK0kX/wancioA+HMqo+1xOi12eGsEO/uiMJ3sPl99xS84loKeQZV03lF17kL81sjY3T9DO9dnsQXhsl4KgRaqDYnajZrzqu6aU2gZoFiWwVNKxtj1EnDeyFPmYXxBSiB2ENfoAWRQU1mrzb+lZYLPtAQacJL8ctsVeUhNEEb61GYPiOV7HSXrj0IKhXUG3Z2c+mHz6WUlJR8K2aL8JQ7m3vbmgREGQFbDMVnBKHIPXbDRxCcibrXNZH2oXqJcYBNITnZGuIRrdGl9LW+57PmzOIFAuLmae/geBrBU0FxYMiJaoqO3RffJ8oWW5JwwYMQ+Vre9WjkxfCN5+hHuPRSUfge++YK0Hkaz3IbKEkR0sLoqGjKt7Eso6vig8O4Mhz7M9vQIDgxBMB6HJGAnLxN5HPQ2mh15+Zrje98n1ZkiWCex/l/YDEqNKoS9OClGLRS9ArT+0TpnhTV2bXcBheWcPwhZYIaegQ2+Tx91xEMIMAoYHxMs71RGxFaHad1ATzHLofEGp4XFUUqYBiYU8dr1FZWvZ1UYvmsHB3B7oNf7qbRi5yHjsOBV84nzLdCQjOIV24L5jPeqi3vstq0LXzjnTnMvbf8zysvhef1NSgSsvWZ6qoRv+T4DiO+3dLD/7RlvAR1b9MA4/yx36u/iApLkDhKJ2IsmJwcsgpkgQyh9EKHzD2SowpIhwyBUagBQIMS0o775GIR12mJoOuZ+a9+f6dn0OUq7xklyXWxELr3c7HVx5uUVK8J+qViAVmOgS7VxxeAgGxEETucYTlk8VwCwgnlBN420fi6ZkfMns8UcfrF5nL+uA7G49sxsQnOlEhnQvr5iEF6mi3BCAe3usK5SbXpqI7Jg6pwngn2Z7T30qBX9thdzkVZD6ZaIDFBNTQyHaYtaybX4OyYkWiXAyFlhXb6np/4th/xGa78Fw0ZC2lo4zn/kFBgXYnlCTlxPL1bM5iUMuNRdFsmjQJb5f5MlioqiDvJpmr91tGKNPZGJTXpHWjYjBpJcSSC9sJItOSHVovyE6j5EWoGZtg9wdvEWOLrL75Tr+e+PBkvxk78UDexg=" />
+</wopi-discovery>
